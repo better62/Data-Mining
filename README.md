@@ -2,7 +2,7 @@
 성균관대학교 인공지능융합전공 데이터마이닝 과제 & 프로젝트 파일입니다.
 
 
-최종성적 : A+
+최종성적 : A+ (2/24)
 
 ## 과제
 1. [Data Collection (크롤링)](https://github.com/better62/Data-Mining/blob/Assignment/2019311492_%EC%9D%B4%EB%82%98%EC%9D%80_lab1.py)
